@@ -1,4 +1,5 @@
-📊# Data Science & Healthcare Projects
+📊 Data Science & Healthcare Projects
+
 This repository includes independent data science projects I developed alongside my professional work, exploring health data, cognitive phenomena, and statistical analysis using Python. These projects reflect my personal interest in applying analytical methods to real-world problems in health and cognition. 
 
 🔍 Projects Overview
