@@ -18,5 +18,12 @@ Techniques: Drift Diffusion Model, Stochastic Noise Modeling, Monte Carlo simula
 Language: Python
 Libraries: matplotlib, numpy, scipy
 
-🚀How to Run
+🧠3. Brain Connectome Classification
+File: Classifying Brain Connectomes
+Classifies healthy versus schizophrenic brain states using connectome data.
+Techiniques: Riemannian Minimum Distance to Mean Classifier
+Language: Python
+Libraries: geomstats, numpy, matplotlib
+
+🚀How to Run:
 Open the notebooks using Jupyter Notebook or Google Colab.
