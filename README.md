@@ -25,7 +25,7 @@ Techiniques: Riemannian Minimum Distance to Mean Classifier
 Language: Python
 Libraries: geomstats, numpy, matplotlib
 
-🩺 3. Breast Cancer Survival Analysis
+🩺 4. Breast Cancer Survival Analysis
 File: Cancer_data_survival_analysis
 Analyzes breast cancer synthetic data using survival analysis to investigate the lifespan of the patients.
 Techniques: Kaplan-Meier Estimnation, Cox-Hazard Model, Log-Rank Test
