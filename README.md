@@ -27,3 +27,10 @@ Libraries: geomstats, numpy, matplotlib
 
 🚀How to Run:
 Open the notebooks using Jupyter Notebook or Google Colab.
+
+🩺 3. Breast Cancer Survival Analysis
+File: Cancer_data_survival_analysis
+Analyzes breast cancer synthetic data using survival analysis to investigate the lifespan of the patients.
+Techniques: Kaplan-Meier Estimnation, Cox-Hazard Model, Log-Rank Test
+Language: Python
+Libraries: pandas, numpy, matplotlib
